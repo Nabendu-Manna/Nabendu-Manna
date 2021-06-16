@@ -2,7 +2,7 @@
    Full stack developer at CodeHat.
 ## I'm a Self-Taught Programmer!
 
-- 🔭 I’m currently working on {Dream Project} 🐱‍🏍
+- 🔭 I’m currently working on {Dream Project} 🦸
 - 🌱 I’m currently learning everything 📚
 - 👯 I’m looking to collaborate on 💕
 - 🥅 2021 Goals: Learning everything in my way.🛫
