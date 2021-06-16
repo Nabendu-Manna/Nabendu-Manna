@@ -7,7 +7,7 @@
 </a>
 <!-- linkedin -->
 <a href="https://www.linkedin.com/in/nabendu-manna-b32507200/">
-  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243657-ec28ea80-cee1-11eb-92db-e90dfaabc44a.png"/>
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243667-ed5a1780-cee1-11eb-8af9-4df390cf89a2.png"/>
 </a>
 <!-- gitlab -->
 <a href="https://gitlab.com/mannanabendu2000-inprog">
