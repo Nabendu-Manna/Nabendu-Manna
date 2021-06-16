@@ -1,16 +1,16 @@
 ### Hi there 👋 I am Nabendu Manna
 
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+<a href="https://twitter.com/MannaNabendu">
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
 <a href="https://medium.com/@shinichiokada">
-  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
+  <img align="left" alt="Nabendu Manna | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
 </a>
 
 <br />
 <br />
 
-<!--
+
 **Nabendu-Manna/Nabendu-Manna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
