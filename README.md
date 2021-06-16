@@ -8,8 +8,8 @@
 - 🥅 2021 Goals: Learning everything in my way.🛫
 - 🤔 I’m looking for help 🪔
 - 💬 Ask me about programming ❓
+- ⚡ Fun fact: I love to draw pictures of nature 🎨
 <!-- - 📫 How to reach me: 🔍 -->
-- ⚡ Fun fact: I love to take photos of nature 🎨
 
 ---
 
