@@ -17,7 +17,15 @@
 <a href="https://twitter.com/MannaNabendu">
   <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243672-edf2ae00-cee1-11eb-8f37-3bbb7bfb429b.png"/>
 </a>
+<!-- instagram -->
+<a href="https://www.instagram.com/nabendu__manna/">
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243661-ecc18100-cee1-11eb-9083-2d87fddfd04a.png"/>
+</a>
 
+<!-- facebook -->
+<a href="https://www.facebook.com/Nabendu.Manna.FB/">
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243642-e92dfa00-cee1-11eb-8d31-c6601eb6e731.png"/>
+</a>
 
 <!-- <a href="https://medium.com/@shinichiokada">
   <img align="left" alt="Nabendu Manna | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
