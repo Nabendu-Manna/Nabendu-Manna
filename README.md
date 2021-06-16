@@ -6,6 +6,12 @@
 <a href="mailto:mannanabendu2000@gmail.com">
   <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243657-ec28ea80-cee1-11eb-92db-e90dfaabc44a.png"/>
 </a>
+<a href="mailto:mannanabendu2000@gmail.com">
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243654-eb905400-cee1-11eb-96e6-5597b01fec09.png"/>
+</a>
+<a href="mailto:mannanabendu2000@gmail.com">
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243657-ec28ea80-cee1-11eb-92db-e90dfaabc44a.png"/>
+</a>
 
 <!-- <a href="https://medium.com/@shinichiokada">
   <img align="left" alt="Nabendu Manna | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
