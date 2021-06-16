@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nabendu Manna
-**Nabendu-Manna/Nabendu-Manna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full stack developer al CodeHat.
 ## I'm a Self-Taught Programmer!
 
 - 🔭 I’m currently working on ...
