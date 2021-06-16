@@ -1,6 +1,6 @@
-### Hi there 👋 I am Nabendu Manna
+## Hi there 👋 I am Nabendu Manna
 
-
+### Connect with me:
 <!-- mail -->
 <a href="mailto:mannanabendu2000@gmail.com">
   <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243657-ec28ea80-cee1-11eb-92db-e90dfaabc44a.png"/>
