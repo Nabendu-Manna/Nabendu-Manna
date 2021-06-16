@@ -1,8 +1,9 @@
 ### Hi there 👋 I am Nabendu Manna
 
 <a href="https://twitter.com/MannaNabendu">
-  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243657-ec28ea80-cee1-11eb-92db-e90dfaabc44a.png"/>
 </a>
+
 
 <!-- <a href="https://medium.com/@shinichiokada">
   <img align="left" alt="Nabendu Manna | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
