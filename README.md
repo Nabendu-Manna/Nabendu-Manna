@@ -3,8 +3,8 @@
 <a href="https://twitter.com/MannaNabendu">
   <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243672-edf2ae00-cee1-11eb-8f37-3bbb7bfb429b.png"/>
 </a>
-<a href="https://twitter.com/MannaNabendu">
-  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="mailto:mannanabendu2000@gmail.com"/>
+<a href="mailto:mannanabendu2000@gmail.com">
+  <img align="left" alt="Nabendu Manna | Twitter" width="21px" src="https://user-images.githubusercontent.com/69715068/122243657-ec28ea80-cee1-11eb-92db-e90dfaabc44a.png"/>
 </a>
 
 <!-- <a href="https://medium.com/@shinichiokada">
