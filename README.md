@@ -2,14 +2,14 @@
    Full stack developer al CodeHat.
 ## I'm a Self-Taught Programmer!
 
-- 🔭 I’m currently working on { Dream project }
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on {Dream Project} 🐱‍🏍
+- 🌱 I’m currently learning everything 📚
+- 👯 I’m looking to collaborate on 💕
+- 🥅 2021 Goals: Learning everything in my way.🛫
+- 🤔 I’m looking for help 🪔
+- 💬 Ask me about programming ❓
+<!-- - 📫 How to reach me: 🔍 -->
+- ⚡ Fun fact: I love to take photos of nature 🎨
 
 ---
 
