@@ -54,8 +54,8 @@
 <br />
 
 ---
-<b></b>
-## Languages I mostly use to develop projects
+
+## Languages I mostly use to develop projects <b></b>
 
 <br />
 
