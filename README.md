@@ -53,8 +53,6 @@
 
 <br />
 
----
-
 ## Languages I mostly use to develop projects
 
 <br />
