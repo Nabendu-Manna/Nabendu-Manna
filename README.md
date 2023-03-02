@@ -53,6 +53,8 @@
 
 <br />
 
+---
+
 ## Languages I mostly use to develop projects
 
 <br />
@@ -67,7 +69,7 @@
 <br />
 
 
-## Frameworks & Technologies I use to develop <b>Cool Ideas Into Reality <b/>
+## Frameworks & Technologies I use to develop
 
 <br />
 
