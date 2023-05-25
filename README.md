@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nabendu Manna
-   Full stack developer at CodeHat.
+   Full stack developer at eCeltic.
 ## I'm a Self-Taught Programmer!
 
 - 🔭 I’m currently working on {Dream Project} 🦸
