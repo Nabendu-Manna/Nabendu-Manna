@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on {Dream Project} 🦸
 - 🌱 I’m currently learning everything 📚
 - 👯 I’m looking to collaborate on 💕
-- 🥅 2022 Goals: Learning everything in my way.🛫
+- 🥅 2023 Goals: Learning everything in my way.🛫
 - 🤔 I’m looking for help 🪔
 - 💬 Ask me about programming ❓
 - ⚡ Fun fact: I love to draw pictures of nature 🎨
